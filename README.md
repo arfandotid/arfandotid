@@ -6,7 +6,7 @@
 
 <br>
 <div align="center">
-  ![]([https://komarev.com/ghpvc/?username=arfandotid&abbreviated=true&base=1300&style=flat])
+  <img src="https://komarev.com/ghpvc/?username=arfandotid&abbreviated=true&base=1300&style=flat" />
 </div>
 
 <div align="center">
