@@ -1,26 +1,30 @@
-### Hi there, I'm <a href="https://arfandotid.github.io/">Arfan</a>! 👋
-
 <div align="center">
+
+# Hi there, I'm Arfan 👋
+
+### Full-Stack Developer | AI Engineer
+
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=arfandotid" width="420">
-</div>
-
-<br>
-<div align="center">
+<div>
   <img src="https://komarev.com/ghpvc/?username=arfandotid&abbreviated=true&base=1300&style=flat" />
 </div>
 
-<div align="center">
-<br>
-<b>Tools & Languages :<b>
-<br><br>
-<a href="https://code.visualstudio.com/"><img src="https://www.returngis.net/wp-content/uploads/2015/11/VS-Code.png" width="40"></a>
-<a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1280px-Laravel.svg.png" width="40"></a>
-<a href="https://reactjs.org/"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="40"></a>
+### 🛠️ Tech Stack
 
-<div align="center">
-<br>
-<b>Connect with Me:<b>
-<br><br>
-<code><a href="https://www.linkedin.com/in/mghifariarfan/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></code>
-<code><a href="https://www.instagram.com/mghifariarfan/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></code>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Connect with Me:**
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mghifariarfan/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mghifariarfan/)
+
 </div>
